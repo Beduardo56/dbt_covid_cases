@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: covid_cases
+    tables:
+      - name: covid_timeline
